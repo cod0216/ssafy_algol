@@ -1,5 +1,17 @@
 # 🫥SSAFY 알고리즘🫥
 
+ ### **[Algo Plus](https://chromewebstore.google.com/detail/algo-plus/egomkekembecbmlmmoflfdaobgkliiid?hl=ko)와 함께 합니다.**
+ 
+ - Algo Plus 주요 기능
+```java
+1. 11개의 주요 코딩테스트 언어 지원하는 에디터
+    - Java8, Java11, C, C++, C#, Python3, PyPy, node.js, Kotlin, Ruby, Swift, Go 지원
+2. 커스텀 테스트케이스 추가 기능
+3. 테스트케이스 실행 기능
+4. 코드 비교를 통한 오답노트 작성 기능
+5. 오답노트 깃허브 저장소 업로드 기능
+```
+
 -----
 
 ## 1주차: DFS와 BFS
