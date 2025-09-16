@@ -54,7 +54,7 @@
 | 3 | 2110 | 공유기 설치 |  Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/2110) |
 | 4 | 1939 | 중량제한 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1939) |
 | 5 | 1300 | K 번째 수 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/1300) |
-| 5 | 2473 | 세 용액 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2473) |
+| 6 | 2473 | 세 용액 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2473) |
 
 
 <!--
