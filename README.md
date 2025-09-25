@@ -56,6 +56,19 @@
 | 5 | 1300 | K 번째 수 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/1300) |
 | 6 | 2473 | 세 용액 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2473) |
 
+## 4주차.그리디
+### 📁 알고리즘 유형: 그리디
+### ➡️ 백준 문제집 [바로가기](https://www.acmicpc.net/workbook/view/6833)
+#### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기](https://school.programmers.co.kr/learn/courses/30/parts/12244)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 20365 | 블로그2 | Silver 3 | [풀러 가기](https://www.acmicpc.net/problem/20365) |
+| 2 | 1092 | 배 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/1092) |
+| 3 | 1931 |회의실 배정 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/1931) |
+| 4 | 2812 |크게 만들기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2812) |
+| 5 | 2457 | 공주님의 정원 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2457) |
+| 6 | 8980 | 택배 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/8980) |
+</br>
 
 <!--
 ## 주차: DFS와 BFS
