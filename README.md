@@ -70,6 +70,36 @@
 | 6 | 8980 | 택배 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/8980) |
 </br>
 
+## 5주차.DP(동적계획법)
+### 📁 알고리즘 유형: DP(동적계획법)
+### ➡️ 백준 문제집 [바로가기1](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_1) / [바로가기2](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_2)
+#### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기](https://school.programmers.co.kr/learn/courses/30/parts/12263)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 11053 | 가장 긴 증가하는 부분 수열 | Silver 2 | [풀러 가기](https://www.acmicpc.net/problem/11053) |
+| 2 | 15486 | 퇴사2 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/15486) |
+| 3 | 12865 | 평범한 배낭 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/12865) |
+| 4 | 2631 | 줄세우기 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/2631) |
+| 5 | 3687 | 성냥개비 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/3687) |
+| 6 | 2629 | 양팔저울 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2629) |
+
+</br>
+
+## 6주차.투포인터
+### 📁 알고리즘 유형: 투포인터
+### ➡️ 백준 문제집 [바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/two_pointer)
+#### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기]()
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 20921 | 블로그 | Silver 3 | [풀러 가기](https://www.acmicpc.net/problem/21921) |
+| 2 | 15961 | 회전 초밥 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/15961) |
+| 3 | 1806 | 부분합 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1806) |
+| 4 | 7453 | 합이 0인 네 정수 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/7453) |
+| 5 | 2473 | 세 용액 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2473) |
+| 6 | 1644 | 소수의 연속합 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1644) |
+</br>
+
+
 <!--
 ## 주차: DFS와 BFS
 ### 알고리즘 유형:
