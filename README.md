@@ -14,6 +14,21 @@
 
 -----
 
+## 제 1회 보라매컵 : 말년 꼬인 은창이와 관심병사 해림이
+### 알고리즘 유형: ???, ???, ???
+
+| 순번 | 문제 번호| 문제이름 | 티어 | 문제 링크|
+| --- | --- | --- | --- | --- |
+| 1 | 27110 | 특식 배부 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27110)|
+| 2 | 27111 | 출입 기록 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27111)|
+| 3 | 27112 | 시간 외 근무 멈춰! | ??? | [풀러 가기](https://www.acmicpc.net/problem/27112) |
+| 4 | 27113 | 잠입 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27113) |
+| 5 | 27114 | 잠입 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27114) |
+| 6 | 27115 | 통신소 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27115) |
+| 7 | 27116 | 전투기 출격 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27116) |
+| 8 | 27117 | 위문공연 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27117) |
+
+
 ## 1주차: DFS와 BFS
 ### 알고리즘 유형: DFS, BFS
 ### ➡️ 백준 문제집 [바로가기](https://www.acmicpc.net/workbook/view/6853)
