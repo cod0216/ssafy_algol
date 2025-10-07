@@ -23,7 +23,7 @@
 | 2 | 27111 | 출입 기록 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27111)|
 | 3 | 27112 | 시간 외 근무 멈춰! | ??? | [풀러 가기](https://www.acmicpc.net/problem/27112) |
 | 4 | 27113 | 잠입 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27113) |
-| 5 | 27114 | 잠입 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27114) |
+| 5 | 27114 | 조교의 맹연습 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27114) |
 | 6 | 27115 | 통신소 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27115) |
 | 7 | 27116 | 전투기 출격 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27116) |
 | 8 | 27117 | 위문공연 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27117) |
