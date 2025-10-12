@@ -14,20 +14,6 @@
 
 -----
 
-## 제 2회 보라매컵 : 소대장(해림, 소위) "아, 자네가 주임원사(은창, 원사)인가?"
-### 알고리즘 유형: ???, ???, ???
-### 시간 : 25년 10월 09일 09시 30분 ~ 12시 30분 (180분)
-| 순번 | 문제 번호| 문제이름 | 티어 | 문제 링크|
-| --- | --- | --- | --- | --- |
-| 1 | 27277 | 장기자랑 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27277)|
-| 2 | 27278 | 영내순환버스 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27278)|
-| 3 | 27279 | 조사전달 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27279) |
-| 4 | 27280 | 이기적인 목봉 체조 (Easy) | ??? | [풀러 가기](https://www.acmicpc.net/problem/27280) |
-| 5 | 27281 | 운전병의 딜레마 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27281) |
-| 6 | 27282 | 체육 대회 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27282) |
-| 7 | 27283 | MVP 투표 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27283) |
-| 8 | 27284 | 이기적인 목봉 체조 (Hard) | ??? | [풀러 가기](https://www.acmicpc.net/problem/27284) |
-
 ## 1주차: DFS와 BFS
 ### 알고리즘 유형: DFS, BFS
 ### ➡️ 백준 문제집 [바로가기](https://www.acmicpc.net/workbook/view/6853)
@@ -113,7 +99,7 @@
 | 6 | 1644 | 소수의 연속합 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1644) |
 </br>
 
-
+-----
 
 ## 제 1회 보라매컵 : 말년 꼬인 은창이와 관심병사 해림이
 ### 알고리즘 유형: ???, ???, ???
@@ -128,6 +114,20 @@
 | 6 | 27115 | 통신소 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27115) |
 | 7 | 27116 | 전투기 출격 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27116) |
 | 8 | 27117 | 위문공연 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27117) |
+
+## 제 2회 보라매컵 : 소대장(해림, 소위) "아, 자네가 주임원사(은창, 원사)인가?"
+### 알고리즘 유형: ???, ???, ???
+### 시간 : 25년 10월 09일 09시 30분 ~ 12시 30분 (180분)
+| 순번 | 문제 번호| 문제이름 | 티어 | 문제 링크|
+| --- | --- | --- | --- | --- |
+| 1 | 27277 | 장기자랑 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27277)|
+| 2 | 27278 | 영내순환버스 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27278)|
+| 3 | 27279 | 조사전달 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27279) |
+| 4 | 27280 | 이기적인 목봉 체조 (Easy) | ??? | [풀러 가기](https://www.acmicpc.net/problem/27280) |
+| 5 | 27281 | 운전병의 딜레마 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27281) |
+| 6 | 27282 | 체육 대회 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27282) |
+| 7 | 27283 | MVP 투표 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27283) |
+| 8 | 27284 | 이기적인 목봉 체조 (Hard) | ??? | [풀러 가기](https://www.acmicpc.net/problem/27284) |
 
 <!--
 ## 주차: DFS와 BFS
