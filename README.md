@@ -99,6 +99,32 @@
 | 6 | 1644 | 소수의 연속합 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1644) |
 </br>
 
+## 7주차.최단거리
+### 📁 알고리즘 유형: 최단거리
+### ➡️ 백준 문제집 [바로가기](https://www.acmicpc.net/workbook/view/7273)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 11657 | 타임머신 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/11657) |
+| 2 | 10159 | 저울  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/10159) |
+| 3 | 1753  | 최단경로 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1753) |
+| 4 | 1613 | 역사 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1613) |
+| 5 | 1865  | 웜홀 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1865) |
+| 6 | 9205  | 맥주 마시면서 걸어가기 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/9205) |
+
+</br>
+
+## 8주차.분리집합과 최소 스패팅 트리
+### 📁 알고리즘 유형:분리집합과 최소 스패팅 트리
+### ➡️ 백준 문제집 [분리집합-바로가기](https://www.acmicpc.net/workbook/view/6784) / [최소스패닝트리-바로가기](https://www.acmicpc.net/workbook/view/7175)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 1717 | 집합의표현  | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/1717) |
+| 2 | 1976 | 여행가자  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1976) |
+| 3 | 4195 | 친구네트워크 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/4195) |
+| 4 | 1647 | 도시분할계획 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1647) |
+| 5 | 1922 | 네트워크연결 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1922) |
+| 6 | 17490 | 일감호에 다리 놓기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/17490) |
+
 -----
 
 ## 제 1회 보라매컵 : 말년 꼬인 은창이와 관심병사 해림이
@@ -128,6 +154,7 @@
 | 6 | 27282 | 체육 대회 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27282) |
 | 7 | 27283 | MVP 투표 | ??? | [풀러 가기](https://www.acmicpc.net/problem/27283) |
 | 8 | 27284 | 이기적인 목봉 체조 (Hard) | ??? | [풀러 가기](https://www.acmicpc.net/problem/27284) |
+
 
 <!--
 ## 주차: DFS와 BFS
