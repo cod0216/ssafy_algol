@@ -95,7 +95,7 @@
 | 2 | 15961 | 회전 초밥 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/15961) |
 | 3 | 1806 | 부분합 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1806) |
 | 4 | 7453 | 합이 0인 네 정수 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/7453) |
-| 5 | 2473 | 세 용액 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2473) |
+| 5 | 20366 | 같이 눈사람 만들래? | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/20366) |
 | 6 | 1644 | 소수의 연속합 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1644) |
 </br>
 
