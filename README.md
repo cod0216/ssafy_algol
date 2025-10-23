@@ -97,9 +97,24 @@
 | 4 | 7453 | 합이 0인 네 정수 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/7453) |
 | 5 | 20366 | 같이 눈사람 만들래? | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/20366) |
 | 6 | 1644 | 소수의 연속합 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1644) |
+
 </br>
 
-## 7주차.최단거리
+## 7주차.스위핑
+### 📁 알고리즘 유형:스위핑
+### ➡️ 백준 문제집 [스위핑-바로가기](https://www.acmicpc.net/workbook/view/6784)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 15889 | 호 안에 수류탄이야!!  | Silver 3 | [풀러 가기](https://www.acmicpc.net/problem/15889) |
+| 2 | 1689 | 겹치는 선분  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1689) |
+| 3 | 2836 | 수상 택시 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2836) |
+| 4 | 2024 | 선분 덮기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2024) |
+| 5 | 24229 | 모두싸인 출근길 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/24229) |
+| 6 | 17619 | 개구리 점프 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/17619) |
+
+</br>
+
+## 8주차.최단거리
 ### 📁 알고리즘 유형: 최단거리
 ### ➡️ 백준 문제집 [바로가기](https://www.acmicpc.net/workbook/view/7273)
 | 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
@@ -113,7 +128,7 @@
 
 </br>
 
-## 8주차.분리집합과 최소 스패닝 트리
+## 9주차.분리집합과 최소 스패닝 트리
 ### 📁 알고리즘 유형:분리집합과 최소 스패닝 트리
 ### ➡️ 백준 문제집 [분리집합-바로가기](https://www.acmicpc.net/workbook/view/6784) / [최소스패닝트리-바로가기](https://www.acmicpc.net/workbook/view/7175)
 | 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
@@ -124,18 +139,6 @@
 | 4 | 1647 | 도시분할계획 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1647) |
 | 5 | 1922 | 네트워크연결 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1922) |
 | 6 | 17490 | 일감호에 다리 놓기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/17490) |
-
-## 9주차.스위핑
-### 📁 알고리즘 유형:스위핑
-### ➡️ 백준 문제집 [스위핑-바로가기](https://www.acmicpc.net/workbook/view/6784)
-| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
-| --- | --- | --- | --- | --- |
-| 1 | 15889 | 호 안에 수류탄이야!!  | Silver 3 | [풀러 가기](https://www.acmicpc.net/problem/15889) |
-| 2 | 1689 | 겹치는 선분  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1689) |
-| 3 | 2836 | 수상 택시 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2836) |
-| 4 | 2024 | 선분 덮기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2024) |
-| 5 | 24229 | 모두싸인 출근길 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/24229) |
-| 6 | 17619 | 개구리 점프 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/17619) |
 
 -----
 
