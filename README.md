@@ -125,6 +125,18 @@
 | 5 | 1922 | 네트워크연결 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1922) |
 | 6 | 17490 | 일감호에 다리 놓기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/17490) |
 
+## 9주차.스위핑
+### 📁 알고리즘 유형:스위핑
+### ➡️ 백준 문제집 [스위핑-바로가기](https://www.acmicpc.net/workbook/view/6784)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 15889 | 호 안에 수류탄이야!!  | Silver 3 | [풀러 가기](https://www.acmicpc.net/problem/15889) |
+| 2 | 1689 | 겹치는 선분  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1689) |
+| 3 | 2836 | 수상 택시 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2836) |
+| 4 | 2024 | 선분 덮기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2024) |
+| 5 | 24229 | 모두싸인 출근길 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/24229) |
+| 6 | 17619 | 개구리 점프 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/17619) |
+
 -----
 
 ## 제 1회 보라매컵 : 말년 꼬인 은창이와 관심병사 해림이
