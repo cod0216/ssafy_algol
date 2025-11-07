@@ -143,10 +143,9 @@
 
 </br>
 
-## 10주차.구현과 시뮬레이션
-### 알고리즘 유형: 구현, 시뮬레이션
-### ➡️ 백준 문제집 [구현 - 바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/implementation) <br>
-### ➡️ 백준 문제집 [시뮬레이션 - 바로가기](https://www.acmicpc.net/workbook/view/6832)
+## 10주차.회전 회오리 슛
+### 알고리즘 유형: 배열 돌리기
+### ➡️ 백준 문제집 [배열 돌리기 - 바로가기](https://www.acmicpc.net/workbook/view/6515) <br>
 | 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
 | --- | --- | --- | --- | --- |
 | 1 | 16926 | 배열 돌리기 1  | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/16926) |
