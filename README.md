@@ -140,6 +140,22 @@
 | 5 | 1922 | 네트워크연결 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1922) |
 | 6 | 17490 | 일감호에 다리 놓기 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/17490) |
 
+
+</br>
+
+## 10주차.구현과 시뮬레이션
+### 알고리즘 유형: 구현, 시뮬레이션
+### ➡️ 백준 문제집 [구현 - 바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/implementation) <br>
+### ➡️ 백준 문제집 [시뮬레이션 - 바로가기](https://www.acmicpc.net/workbook/view/6832)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 16926 | 배열 돌리기 1  | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/16926) |
+| 2 | 16927 | 배열 돌리기 2  | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/16927) |
+| 3 | 16935 | 배열 돌리기 3 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/16935) |
+| 4 | 17406 | 배열 돌리기 4 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/17406) |
+| 5 | 17470 | 배열 돌리기 5 | Platinum 4 | [풀러 가기](https://www.acmicpc.net/problem/17470) |
+| 6 | 20327 | 배열 돌리기 6 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/20327) |
+
 -----
 
 ## 제 1회 보라매컵 : 말년 꼬인 은창이와 관심병사 해림이
