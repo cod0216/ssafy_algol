@@ -155,6 +155,34 @@
 | 5 | 17470 | 배열 돌리기 5 | Platinum 4 | [풀러 가기](https://www.acmicpc.net/problem/17470) |
 | 6 | 20327 | 배열 돌리기 6 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/20327) |
 
+</br>
+
+## 11주차.DP(트리 디피)
+### 📁 알고리즘 유형: DP(트리 디피)
+### ➡️ 백준 문제집 [DP(트리 디피) - 바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_on_trees) <br>
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 15681 | 트리와 쿼리  | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/15681) |
+| 2 | 2533 | 사회망 서비스(SNS)  | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2533) |
+| 3 | 1949 | 우수 마을 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/1949) |
+| 4 | 2213 | 트리의 독립집합 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/2213) |
+| 5 | 2058 | 원자의 에너지 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2058) |
+| 6 | 1135 | 늬우스 전하기 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/1135) |
+
+</br>
+
+## 11주차.비둘기집 원리
+### 📁 알고리즘 유형: 비둘기집 원리
+### ➡️ 백준 문제집 [비둘기집 원리 - 바로가기](https://www.acmicpc.net/problemset?sort=ac_desc&algo=189) <br>
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 26085 | 효구와 호규 (Easy) | Silver 1 | [풀러 가기](https://www.acmicpc.net/problem/26085) |
+| 2 | 1323 | 숫자 연결하기  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1323) |
+| 3 | 2077 | 싼데 비슷한 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/2077) |
+| 4 | 32954 | 젓가락 고르기 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/32954) |
+| 5 | 31790 | 간단한 문제 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/31790) |
+| 6 | 26097 | 효구와 호구 (Hard) | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/26097) |
+
 -----
 
 ## 제 1회 보라매컵 : 말년 꼬인 은창이와 관심병사 해림이
