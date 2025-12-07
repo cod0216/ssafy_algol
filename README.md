@@ -199,9 +199,9 @@
 
 </br>
 
-## 14주차.지옥의 동적계획법
+## 14주차.지옥의 동적계획법 (하루 4끼, 식후 30분 이내 복용할 것)
 ### 📁 알고리즘 유형: 동적계획법
-### ➡️ 백준 문제집 [트리 - 바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_1) <br>
+### ➡️ 백준 문제집 [동적계획법 - 바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_1) <br>
 | 순번 | 문제 번호 | 문제 이름 | 티어 | 풀이 링크 |
 |---|---|---|---|---|
 | 1 | 2294 | 동전 2 | Gold 5 | [풀러가기](https://www.acmicpc.net/problem/2294) |
