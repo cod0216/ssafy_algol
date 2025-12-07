@@ -183,6 +183,53 @@
 | 5 | 31790 | 간단한 문제 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/31790) |
 | 6 | 26097 | 효구와 호구 (Hard) | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/26097) |
 
+</br>
+
+## 13주차.트리
+### 📁 알고리즘 유형: 트리
+### ➡️ 백준 문제집 [트리 - 바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/tree) <br>
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 11725 | 트리의 부모 찾기  | Silver 2 | [풀러 가기](https://www.acmicpc.net/problem/11725) |
+| 2 | 4256 | 트리 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/4256) |
+| 3 | 1991 | 트리 순회 | Silver 1 | [풀러 가기](https://www.acmicpc.net/problem/1991) |
+| 4 | 33873 | 트리 뒤집기 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/33873) |
+| 5 | 2263 | 트리의 순회 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/2263) |
+| 6 | 2250 | 트리의 높이와 너비  | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/2250) |
+
+</br>
+
+## 14주차.지옥의 동적계획법
+### 📁 알고리즘 유형: 동적계획법
+### ➡️ 백준 문제집 [트리 - 바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_1) <br>
+| 순번 | 문제 번호 | 문제 이름 | 티어 | 풀이 링크 |
+|---|---|---|---|---|
+| 1 | 2294 | 동전 2 | Gold 5 | [풀러가기](https://www.acmicpc.net/problem/2294) |
+| 2 | 11053 | 가장 긴 증가하는 부분 수열 | Silver 2 | [풀러가기](https://www.acmicpc.net/problem/11053) |
+| 3 | 2748 | 피보나치 수 2 | Bronze 1 | [풀러가기](https://www.acmicpc.net/problem/2748) |
+| 4 | 11726 | 2×n 타일링 | Silver 3 | [풀러가기](https://www.acmicpc.net/problem/11726) |
+| 5 | 11660 | 구간 합 구하기 5 | Silver 1 | [풀러가기](https://www.acmicpc.net/problem/11660) |
+| 6 | 2839 | 설탕 배달 | Silver 4 | [풀러가기](https://www.acmicpc.net/problem/2839) |
+| 7 | 10844 | 쉬운 계단 수 | Silver 1 | [풀러가기](https://www.acmicpc.net/problem/10844) |
+| 8 | 2407 | 조합 | Silver 3 | [풀러가기](https://www.acmicpc.net/problem/2407) |
+| 9 | 22869 | 징검다리 건너기 (small) | Silver 1 | [풀러가기](https://www.acmicpc.net/problem/22869) |
+|10 | 11727 | 2×n 타일링 2 | Silver 3 | [풀러가기](https://www.acmicpc.net/problem/11727) |
+|11 | 2156 | 포도주 시식 | Silver 1 | [풀러가기](https://www.acmicpc.net/problem/2156) |
+|12 | 1010 | 다리 놓기 | Silver 5 | [풀러가기](https://www.acmicpc.net/problem/1010) |
+|13 | 15486 | 퇴사 2 | Gold 5 | [풀러가기](https://www.acmicpc.net/problem/15486) |
+|14 | 22857 | 가장 긴 짝수 연속한 부분 수열 (small) | Silver 2 | [풀러가기](https://www.acmicpc.net/problem/22857) |
+|15 | 9095 | 1, 2, 3 더하기 | Silver 3 | [풀러가기](https://www.acmicpc.net/problem/9095) |
+|16 | 11055 | 가장 큰 증가하는 부분 수열 | Silver 2 | [풀러가기](https://www.acmicpc.net/problem/11055) |
+|17 | 21317 | 징검다리 건너기 | Silver 1 | [풀러가기](https://www.acmicpc.net/problem/21317) |
+|18 | 10870 | 피보나치 수 5 | Bronze 2 | [풀러가기](https://www.acmicpc.net/problem/10870) |
+|19 | 2579 | 계단 오르기 | Silver 3 | [풀러가기](https://www.acmicpc.net/problem/2579) |
+|20 | 1463 | 1로 만들기 | Silver 3 | [풀러가기](https://www.acmicpc.net/problem/1463) |
+|21 | 2294 | 동전 2 | Gold 5 | [풀러가기](https://www.acmicpc.net/problem/2294) |
+|22 | 1890 | 점프 | Silver 1 | [풀러가기](https://www.acmicpc.net/problem/1890) |
+|23 | 9465 | 스티커 | Silver 1 | [풀러가기](https://www.acmicpc.net/problem/9465) |
+|24 | 17626 | Four Squares | Silver 3 | [풀러가기](https://www.acmicpc.net/problem/17626) |
+
+
 -----
 
 ## 제 1회 보라매컵 : 말년 꼬인 은창이와 관심병사 해림이
